@@ -15,9 +15,9 @@
 ### My part
 
 - I coded and edited data **_'all of building Data'_** part and coded **_'d3gantt_colored format for visualize Proxy card data'_** my team mate edited employees proxy card data.
-- Report :
-- Proxy Data :
-- Building Data :
+- Report : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/LeeShin_Term%20Project_Final.docx>
+- Proxy Data : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/d3gantt_original.html>
+- Building Data : <https://sunny8747.github.io/UNIST_InfoVis/VAST_Challenge_2016_MC2/building_line_chart.html>
 
 ## Readed Papers
 
