@@ -15,9 +15,10 @@
 ### My part
 
 - I coded and edited data **_'all of building Data'_** part and coded **_'d3gantt_colored format for visualize Proxy card data'_** my team mate edited employees proxy card data.
-- Report : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/LeeShin_Term%20Project_Final.docx>
+- Report : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/LeeShin_Term%20Project_Final.pdf>
 - Proxy Data : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/d3gantt_original.html>
 - Building Data : <https://sunny8747.github.io/UNIST_InfoVis/VAST_Challenge_2016_MC2/building_line_chart.html>
+- Problem : 짧은기간동안 JavaScript와 html을 다루게되어 Sync, Async간의 제어법에 서툴러 Proxy Data는 통으로 데이터를 코드에 삽입해버렸고 Building Data는 탭을 넘어가기전에 1분정도 기다린후 넘어가야 그래프가 출력이 됨
 
 ## Readed Papers
 
