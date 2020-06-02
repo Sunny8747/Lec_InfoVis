@@ -5,7 +5,7 @@
 
 ## VAST Challenge
 
-![Image](http://url/a.png)
+![Image](https://github.com/Sunny8747/UNIST_InfoVis/blob/master/Visual_Analytics_Community.png)
 
 - VAST Challenge 2016 MC2 : <http://vacommunity.org/2016+VAST+Challenge%3A+MC2>
 - By using given datasets, The challenger do visual analytics and find abnormal situation.
@@ -13,6 +13,9 @@
 - Used d3 opensource
 - Origine code d3 gantt chart : <https://codepen.io/jey/details/jmClJ>
 - Building Data Line chart : Edtied origine d3 libraries <https://d3js.org/>
+
+<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="building"></img>
+<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="gantt"></img>
 
 ### My part
 
