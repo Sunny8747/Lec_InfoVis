@@ -14,8 +14,8 @@
 - Origine code d3 gantt chart : <https://codepen.io/jey/details/jmClJ>
 - Building Data Line chart : Edtied origine d3 libraries <https://d3js.org/>
 
-<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="building"></img>
-<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="px(픽셀) 크기 설정" alt="gantt"></img>
+<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="Building data - line chart" alt="building"></img>
+<img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="Proxy data - gantt chart" alt="gantt"></img>
 
 ### My part
 
