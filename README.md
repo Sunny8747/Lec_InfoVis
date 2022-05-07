@@ -1,6 +1,6 @@
-# UNIST_Information Visualization
+# Information Visualization
 
-- Studied at UNIST Information Visualization
+- University Lec Information Visualization
 - 전반적인 Information Visualization 과 Data Analytics에 관한 강의
 
 ## VAST Challenge
