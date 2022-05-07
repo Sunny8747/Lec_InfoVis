@@ -9,21 +9,12 @@
 
 - VAST Challenge 2016 MC2 : <http://vacommunity.org/2016+VAST+Challenge%3A+MC2>
 - By using given datasets, The challenger do visual analytics and find abnormal situation.
-- 2 person team project
 - Used d3 opensource
 - Origine code d3 gantt chart : <https://codepen.io/jey/details/jmClJ>
 - Building Data Line chart : Edtied origine d3 libraries <https://d3js.org/>
 
 <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/building.png" width="70%" height="60%" title="Building data - line chart" alt="building"></img>
 <img src="https://github.com/Sunny8747/UNIST_InfoVis/blob/master/gantt.png" width="70%" height="60%" title="Proxy data - gantt chart" alt="gantt"></img>
-
-### My part
-
-- I coded and edited data **_'all of building Data'_** part and coded **_'d3gantt_colored format for visualize Proxy card data'_** and half of Report. My team mate edited employees proxy card data.
-- Report : <https://github.com/Sunny8747/UNIST_InfoVis/blob/master/VAST_Challenge_2016_MC2/LeeShin_Term%20Project_Final.pdf>
-- Proxy Data : <https://sunny8747.github.io/UNIST_InfoVis/VAST_Challenge_2016_MC2/d3gantt_colored.html>
-- Building Data : <https://sunny8747.github.io/UNIST_InfoVis/VAST_Challenge_2016_MC2/building_line_chart.html>
-- Problem : 짧은기간동안 JavaScript와 html을 다루게되어 Sync, Async간의 제어법에 서툴러 Proxy Data는 통으로 데이터를 코드에 삽입해버렸고 Building Data는 탭을 넘어가기전에 1분정도 기다린후 넘어가야 그래프가 출력이 됨
 
 ## Readed Papers
 
